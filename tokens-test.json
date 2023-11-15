@@ -1,0 +1,58 @@
+{
+  "global": {
+    "Base": {
+      "purple-600": {
+        "value": "#a584f3",
+        "type": "color"
+      },
+      "purple-400": {
+        "value": "#cdbbf8",
+        "type": "color"
+      },
+      "pink-600": {
+        "value": "#fe6bba",
+        "type": "color"
+      },
+      "blue-600": {
+        "value": "#555cf3",
+        "type": "color"
+      },
+      "yellow-600": {
+        "value": "#faca4a",
+        "type": "color"
+      },
+      "pink-400": {
+        "value": "#fea6d6",
+        "type": "color"
+      },
+      "blue-400": {
+        "value": "#999df8",
+        "type": "color"
+      },
+      "yellow-400": {
+        "value": "#fcdf92",
+        "type": "color"
+      }
+    },
+    "Especificos": {
+      "color-background-btn-hover": {
+        "value": "{Base.purple-600}",
+        "type": "color"
+      },
+      "color-background-btn-disable": {
+        "value": "{Base.purple-400}",
+        "type": "color"
+      },
+      "color-background": {
+        "value": "{Base.blue-600}",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
